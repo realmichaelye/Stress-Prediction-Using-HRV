@@ -1,4 +1,7 @@
 # Stress-Prediction-Using-HRV
 
-# Data
+## Data
 https://www.kaggle.com/qiriro/swell-heart-rate-variability-hrv
+
+## Model
+KNN(KNeighbors Classifer)
