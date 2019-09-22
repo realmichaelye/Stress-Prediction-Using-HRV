@@ -95,9 +95,11 @@ function predict() {
     }
     else{
         if(Math.random() > 0.5){
+            playFunSong();
             document.getElementById("p").innerHTML = "Relaxed";
         }
         else{
+            playCalmSong();
             document.getElementById("p").innerHTML = "Stressed";
         }
     }
