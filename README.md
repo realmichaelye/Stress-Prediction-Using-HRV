@@ -6,7 +6,7 @@ https://www.kaggle.com/qiriro/swell-heart-rate-variability-hrv
 
 ## Models
 * Standard Feed-forward Neural Network: Input Layer(34 neurons, ReLU activation), Hidden Layer(10 neurons, ReLU activation), Output Layer(3 neurons, softmax actionation)
-* KNN(KNeighbors Classifer)
+* KNeighbors Classifer
 
 ## Applications
 The goal is to provide a realtime biofeedback from the wearable when a person undergoes stress. This can be in the form of a notification on the iPhone to prompt the user to use a meditation app, or play a calm song through google home automatically. The data can also be recorded and be displayed using an app.
